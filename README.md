@@ -11,3 +11,4 @@ It allows users to input their **Date of Birth** and calculates their exact **ag
 - **CSS** – Styling and layout.  
 - **JavaScript** – Age calculation logic using the Date object.
    
+<img width="515" height="381" alt="image" src="https://github.com/user-attachments/assets/57a6775d-a154-4600-9ccf-041d794400f7" />
